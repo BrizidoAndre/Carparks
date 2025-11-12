@@ -1,0 +1,24 @@
+{
+  "short_name": "Carparks",
+  "name": "Carparks ltda.",
+  "description": "Helps the user find an available parking lot",
+  "start_url": "/BR_module_C_V3",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "144x144",
+      "src": "/BR_module_C_V3/car.png"
+    }
+  ],
+  "screenshots": [
+    {
+      "sizes": "454x763",
+      "src": "/BR_module_C_V3/img.png"
+    },
+    {
+      "sizes": "454x763",
+      "src": "/BR_module_C_V3/img.png",
+      "form_factor": "wide"
+    }
+  ]
+}
